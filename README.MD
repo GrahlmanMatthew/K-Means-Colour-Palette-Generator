@@ -27,8 +27,7 @@ The following sample image has been uploaded alongside the code.
 ## Results
 Sample results for the sample image/execution can be seen in the images below.
 
-<img src="./output/colour-palette-example.png" width="100" height="200">
-<img src="./output/colour-palette-example2.png" width="100" height="200">
+<img src="./output/colour-palette-example.png" width="100" height="200"> <img src="./output/colour-palette-example2.png" width="100" height="200">
 
 ## Reference Materials
 1. [Dominant Colours in an Image using K-Means Clustering](https://buzzrobot.com/dominant-colors-in-an-image-using-k-means-clustering-3c7af4622036)
