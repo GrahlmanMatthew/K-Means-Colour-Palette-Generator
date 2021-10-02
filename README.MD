@@ -22,7 +22,7 @@ Upon execution, you will be prompted for 2 values:
 ## Dataset
 The following sample image has been uploaded alongside the code.
 
-<img src="./images/sample.jpg" width="300" height="400">
+<img src="./images/sample.jpg" width="350" height="400">
 
 ## Results
 Sample results for the sample image/execution can be seen in the images below.
