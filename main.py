@@ -1,5 +1,4 @@
 # Using K Means to Extract the Dominant Colours from an Image
-# https://buzzrobot.com/dominant-colors-in-an-image-using-k-means-clustering-3c7af4622036
 from kmeans import kmeans
 from input import user_input_integer, user_input_filename
 from PIL import Image
@@ -29,6 +28,6 @@ for colour in colour_palette:
     print(rgb2hex(colour[0][0],colour[0][1],colour[0][2]))
 
 palette_image = Image.fromarray(colour_palette)
-palette_image_path = "./output/colour-palette.png"
+palette_image_path = "./images/output.png"
 palette_image.save(palette_image_path)
 print("\nOutput image saved: %s" % palette_image_path)
