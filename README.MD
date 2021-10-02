@@ -13,11 +13,11 @@ Download the repository, install the dependencies via pip, then from the termina
 
 Upon execution, you will be prompted for 2 values:
 1. *k value*: which is # of colours to extract from the image
-2. *image filename*: must include file extension and file must be 
+2. *image filename*: must include file extension and file must be in *images/* directory
 
 ### Sample Execution
 
-![](./output/sample-execution.png)
+![](./images/sample-execution.png)
 
 ## Dataset
 The following sample image has been uploaded alongside the code.
@@ -25,9 +25,9 @@ The following sample image has been uploaded alongside the code.
 <img src="./images/sample.jpg" width="350" height="400">
 
 ## Results
-Sample results for the sample image/execution can be seen in the images below.
+The resulting image is saved as *./images/output.png*. Below are sample results for the sample image/execution.
 
-<img src="./output/colour-palette-example.png" width="100" height="200"> <img src="./output/colour-palette-example2.png" width="100" height="200">
+<img src="./images/colour-palette-example.png" width="100" height="200"> <img src="./images/colour-palette-example2.png" width="100" height="200">
 
 ## Reference Materials
 1. [Dominant Colours in an Image using K-Means Clustering](https://buzzrobot.com/dominant-colors-in-an-image-using-k-means-clustering-3c7af4622036)
